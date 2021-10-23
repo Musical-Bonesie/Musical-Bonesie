@@ -1,4 +1,4 @@
-### Hi there I'm Musical Boneise 👋
+### Hi there I'm Musical Bonesie 👋
 
 
 Welcome to the place I like to build, test, break and fix things :satisfied:
@@ -10,5 +10,6 @@ Welcome to the place I like to build, test, break and fix things :satisfied:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/signekurczaba/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I adore animals and have two :dog2:
-[![Musical-Bonesie GitHub stats](https://github-readme-stats.vercel.app/api?username=Musical-Boneise&count_private=true&show_icons=true&theme=dracula)]
+[![Musical Bonesie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musical-Bonesie&count_private=true&show_icons=true&theme=dracula)]
+
 
