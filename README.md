@@ -1,5 +1,5 @@
 ### Hi there I'm Musical Bonesie 👋
-
+![snack gif](https://github.com/Musical-Bonesie/Musical-Bonesie/blob/output/github-contribution-grid-snake.gif)
 
 Welcome to the place I like to build, test, break and fix things :satisfied:
 
