@@ -12,7 +12,7 @@ Welcome to the place I like to build, test, break and fix things :satisfied:
 - ⚡ Fun fact: I adore animals and have two :dog2:
 
 ### :sparkles: GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Musical-Bonesie&theme=juicyfresh&row=2&column=3)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Musical-Bonesie&theme=juicyfresh&row=2&column=3)
 
 ![Musical Bonesie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musical-Bonesie&count_private=true&show_icons=true&theme=dracula)
 
