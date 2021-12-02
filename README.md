@@ -4,7 +4,7 @@
 Welcome to the place I like to build, test, break and fix things :satisfied:
 
 - 🔭 I’m currently working on improving Asgard Scan and building a :space_invader: with a friend/colleague. :sunglasses: 
-- 🌱 I’m currently learning to have a better understanding of OOP and how to build a simple MVP game using React.js and JavaScript 
+- 🌱 I’m currently learning to have a better understanding of OOP, Java, C# and how to build a simple MVP game using Unity. 
 - 👯 I’m looking to collaborate on anything and everything! 
 - 💬 Ask me about React/JS/HTML
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/signekurczaba/)
