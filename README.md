@@ -16,4 +16,4 @@ Welcome to the place I like to build, test, break and fix things :satisfied:
 
 ![Musical Bonesie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musical-Bonesie&count_private=true&show_icons=true&theme=dracula)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Musical-Bonesie&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Musical-Bonesie&layout=compact"/> -->
