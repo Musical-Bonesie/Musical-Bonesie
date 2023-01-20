@@ -3,10 +3,10 @@
 
 Welcome to the place I like to build, test, break and fix things :satisfied:
 
-- 🔭 I’m currently working on improving Asgard Scan and building a :space_invader: with a friend/colleague. :sunglasses: 
-- 🌱 I’m currently working to have a better understanding of OOP and learning C#, Java, GraphQL, TypeScript, and how to build a simple MVP game using Unity. 
+- 🔭 I’m currently working on developing Swift Apps with a product partner :sunglasses: 
+- 🌱 I’m currently learning Swift, Vue.js, Azure (prep for 204 exam) and C#. 
 - 👯 I’m looking to collaborate on anything and everything! 
-- 💬 Ask me about React.js/JS/HTML/CSS
+- 💬 Ask me about React.js/JavaScriptS/TypeScript/HTML/CSS(SASS)/Hasura/Docker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/signekurczaba/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I adore animals and have two :dog2:
