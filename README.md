@@ -4,7 +4,7 @@
 Welcome to the place I like to build, test, break and fix things :satisfied:
 
 - 🔭 I’m currently working on developing Swift Apps with a product partner :sunglasses: 
-- 🌱 I’m currently learning Swift, Vue.js, Azure (prep for 204 exam) and C#. 
+- 🌱 I’m currently learning (or about to start) Swift, Vue.js, Python and Java. 
 - 👯 I’m looking to collaborate on anything and everything! 
 - 💬 Ask me about React.js/JavaScriptS/TypeScript/HTML/CSS(SASS)/Hasura/Docker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/signekurczaba/)
