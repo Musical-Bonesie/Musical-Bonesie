@@ -14,9 +14,9 @@
 
 ## 🎯 About Me
 
-I'm a passionate developer who loves turning ideas into reality through code. Currently diving deep into mobile development with Swift while exploring the cutting edge of modern web technologies and AI.
+I'm a passionate developer who loves turning ideas into reality through code. Currently diving into computer vision while exploring the cutting edge of modern web technologies and AI.
 
-- 🎨 **Currently Building:** iOS apps with Swift alongside a product partner
+- 🎨 **Currently Building:** Computer Vision and iOS apps with Swift alongside a product partner
 - 📚 **Learning Journey:** Swift, Python, Rust, Rails
 - 🤝 **Open to:** Collaborations, open-source contributions, and interesting projects
 - 💬 **Ask me about:** React.js, JavaScript, TypeScript, HTML/CSS (SASS), Hasura, Docker, GenAI, Vector Databases, Computer Vision
