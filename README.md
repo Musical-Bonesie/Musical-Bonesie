@@ -19,94 +19,119 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 - 🎨 **Currently Building:** Computer Vision and iOS apps with Swift alongside a product partner
 - 📚 **Learning Journey:** Swift, Python, Rust, Rails
 - 🤝 **Open to:** Collaborations, open-source contributions, and interesting projects
+- 🤖 AI Specialties: LLM integration, RAG systems, Computer Vision, Azure AI Services, Vector Databases
 - 💬 **Ask me about:** React.js, JavaScript, TypeScript, HTML/CSS (SASS), Hasura, Docker, GenAI, Vector Databases, Computer Vision
-- 🐕 **Fun fact:** Proud dog parent to two adorable pups
+- 🎻 Fun fact: Former professional violinist turned software developer.
 - 😄 **Pronouns:** She/Her
 
 ---
-
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
+Frontend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Backend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+AI & Machine Learning
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Cloud & DevOps
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Currently Learning
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+💼 Professional Highlights
+typescriptconst recentProjects = {
+  cibc_ai_advisor: {
+    role: "AI Implementation Consultant",
+    impact: "Advised delivery team on AI strategies for enterprise banking",
+    stack: ["Azure AI", "Enterprise Architecture"]
+  },
+  computer_vision_pipeline: {
+    role: "AI/ML Engineer",
+    impact: "NHL player tracking system with 93%+ F1 scores",
+    stack: ["YOLO", "Computer Vision", "Python", "Video Processing"]
+  },
+  fintech_ai_assistant: {
+    role: "Full-Stack Developer",
+    impact: "Built AI-powered assistant reducing manual workflows",
+    stack: ["React", "Azure AI", "Nest.js", "Docker"]
+  },
+  recruitment_ai_platform: {
+    role: "AI Engineer",
+    impact: "LLM-powered HR tool for candidate analysis",
+    stack: ["OpenAI", "Pinecone", "React", "Node.js"]
+  },
+  saas_marketplace: {
+    role: "Full-Stack Developer", 
+    impact: "Built Tesseract - FinTech/blockchain marketplace",
+    stack: ["React", "Hasura", "GraphQL", "Node.js"]
+  }
+};
+<div align="center">
+🏆 Key Achievements
 
-### Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### AI & Data
-![GenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+Deployed production AI systems in Azure cloud environments
+Led MVP development from discovery to production-ready models
+Mentored junior developers and co-op students
+Conducted technical due diligence for M&A
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
-![Musical Bonesie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musical-Bonesie&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musical-Bonesie&theme=dracula&hide_border=true&background=0D1117)
-
+Show Image
+Show Image
 </div>
 
----
-
-## 🏆 Achievements
-
+🏆 Achievements
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Musical-Bonesie&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
-
+Show Image
 </div>
 
----
-
-## 🌆 My Contribution Skyline
-
+🌆 Contribution Visualization
 <div align="center">
-
-**Building my own city, one commit at a time** 🏗️
-
-![GitHub Skyline](https://skyline.github.com/Musical-Bonesie/2024.png)
-
-*Each building represents a day of contributions - watch the city grow!*
-
-Visit [skyline.github.com/Musical-Bonesie](https://skyline.github.com/Musical-Bonesie/2024) to explore the interactive 3D view
-
+Building my own city, one commit at a time 🏗️
+Show Image
+Show Image
 </div>
 
----
-
-## 📈 Coding Activity
-
+📈 Coding Activity
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Musical-Bonesie&theme=dracula&hide_border=true&bg_color=0D1117)
-
+Show Image
 </div>
 
----
-
-## 💼 Let's Connect!
-
+💼 Let's Connect!
 I'm always excited to collaborate on interesting projects, contribute to open source, or just chat about tech! Feel free to reach out:
+<div align="center">
+Show Image
+</div>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/signekurczaba/)
+  <img src="https://komarev.com/ghpvc/?username=Musical-Bonesie&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</div>
 
 </div>
 
