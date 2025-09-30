@@ -4,7 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/signekurczaba/)
 
-**Full-Stack Developer | Swift Explorer | Problem Solver**
+**Full-Stack Developer | Swift and Python Explorer | Problem Solver**
 
 *Welcome to the place where I build, test, break and fix things* 🚀
 
@@ -19,7 +19,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 - 🎨 **Currently Building:** iOS apps with Swift alongside a product partner
 - 📚 **Learning Journey:** Swift, Python, Rust, Rails
 - 🤝 **Open to:** Collaborations, open-source contributions, and interesting projects
-- 💬 **Ask me about:** React.js, JavaScript, TypeScript, HTML/CSS (SASS), Hasura, Docker, GenAI, Vector Databases
+- 💬 **Ask me about:** React.js, JavaScript, TypeScript, HTML/CSS (SASS), Hasura, Docker, GenAI, Vector Databases, Computer Vision
 - 🐕 **Fun fact:** Proud dog parent to two adorable pups
 - 😄 **Pronouns:** She/Her
 
