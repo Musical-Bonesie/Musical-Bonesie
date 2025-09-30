@@ -146,9 +146,8 @@ const recentProjects = {
 
 ![GitHub Activity Calendar](https://ghchart.rshah.org/9745F5/Musical-Bonesie)
 
-[![View Contribution Graph](https://img.shields.io/badge/View_Contribution_Graph-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musical-Bonesie)
-
 </div>
+
 ---
 
 ## 📈 Coding Activity
