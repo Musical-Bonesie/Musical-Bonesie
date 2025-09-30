@@ -146,7 +146,7 @@ const recentProjects = {
 
 ![GitHub Activity Calendar](https://ghchart.rshah.org/9745F5/Musical-Bonesie)
 
-[![View 3D Skyline](https://img.shields.io/badge/View_3D_Skyline-181717?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Musical-Bonesie/2024)
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Musical-Bonesie&theme=dracula&hide_border=true&bg_color=0D1117&area=true)
 
 </div>
 
