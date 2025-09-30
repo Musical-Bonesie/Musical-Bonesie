@@ -146,10 +146,9 @@ const recentProjects = {
 
 ![GitHub Activity Calendar](https://ghchart.rshah.org/9745F5/Musical-Bonesie)
 
-![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Musical-Bonesie&theme=dracula&hide_border=true&bg_color=0D1117&area=true)
+[![View Contribution Graph](https://img.shields.io/badge/View_Contribution_Graph-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musical-Bonesie)
 
 </div>
-
 ---
 
 ## 📈 Coding Activity
